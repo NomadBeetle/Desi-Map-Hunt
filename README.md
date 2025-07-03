@@ -23,7 +23,7 @@ Inspired by the classic US States game in the Python 100 Days of Code Bootcamp.
 * Working with the `turtle` graphics module
 * Using `pandas` to handle data
 * Basic game logic and user input handling
-* Creating educational mini-games with Python
+* Creating educational mini games with Python
 
 ## Features
 
